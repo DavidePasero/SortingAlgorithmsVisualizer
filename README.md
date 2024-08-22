@@ -5,14 +5,20 @@ The user can choose the number of sections n, the delay in ms between each movem
 
 ## To run
 0 - Download the code as a zip file
+
 1 - Open it with IntelliJ
+
 2 - Press the Execute button, the main class is Main.kt
 
 ## To use
 0 - There is a known bug, when you execute the program you have to resize the window to make the graphics element appear on screen
+
 1 - On the top left you can select the number of ms of delay between the movements of the red bar
+
 2 - On the right of point 1 you can select the number "n" of sections of the image to sort (remember to press OK everytime you modify point 1 or point 2)
+
 3 - Select the algorithm you want to visualize
+
 4 - Press Run
 
 ## Youtube video
